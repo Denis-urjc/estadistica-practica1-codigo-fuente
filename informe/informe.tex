@@ -1,10 +1,21 @@
-\documentclass[10pt,a4paper]{article}
+\documentclass[10pt,a4paper, titlepage]{article}
 \usepackage[spanish]{babel}
 \usepackage[utf8]{inputenc}
 \usepackage{amsmath}
 \usepackage{amsfonts}
 \usepackage{amssymb}
 \usepackage{eurosym}
+
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,
+    urlcolor=cyan,
+}
+
+\urlstyle{same}
+
 
 \usepackage{graphicx}
 \usepackage{caption}
@@ -15,9 +26,8 @@
 
 \spanishdecimal{.}
 
-\title{Resumen sobre Información de Empresa Telefónica}
-\author{Carlos Solsona Álvarez \and Cesar Torres Martinez
-\and Javier García Seller \and Oskar Denis Siodmok \and Steven Adrados Khunliang}
+\title{\textbf{Resumen sobre Información\\de Empresa Telefónica}}
+\author{Carlos Solsona Álvarez\\Cesar Torres Martinez\\Javier García Seller\\Oskar Denis Siodmok\\Steven Adrados Khunliang}
 
 \begin{document}
 \maketitle
@@ -138,5 +148,6 @@ Con el análisis de la permanencia en meses de los clientes junto a sus cobros (
      \caption{Relación entre cobros mensuales y permanencia pero distinguiendo el género.}\label{fig: month-churn-gen}
    \end{minipage}
 \end{figure}
-
+\section{Anexo}
+Código fuente: \url{https://github.com/Denis-urjc/estadistica-practica1-codigo-fuente}
 \end{document}
