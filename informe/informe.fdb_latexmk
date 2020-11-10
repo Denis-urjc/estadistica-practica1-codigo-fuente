@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1604923462 "informe.tex" "informe.pdf" "informe" 1604923462
+["pdflatex"] 1604924060 "informe.tex" "informe.pdf" "informe" 1604924061
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1591545468 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1591545468 1004 54797486969f23fa377b128694d548df ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1591545468 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -93,9 +93,9 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1602083943 4855604 a2b69e422d881628e3d9a5db2035053f ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1602083905 2514049 bdcc6ccf323cb62b725a330b9c8611d1 ""
   "age-box.png" 1604856791 10021 898a6867f837a04431ae4c25c06970ee ""
-  "informe.aux" 1604923462 5982 39d73deb28cb1f6180a279941945cb4c "pdflatex"
-  "informe.out" 1604923462 304 9b1a845210fdc75e4f9c201759f6c4dd "pdflatex"
-  "informe.tex" 1604923461 7566 f3cbac5029fdfbce00a1203e81a546a1 ""
+  "informe.aux" 1604924061 5982 39d73deb28cb1f6180a279941945cb4c "pdflatex"
+  "informe.out" 1604924061 304 9b1a845210fdc75e4f9c201759f6c4dd "pdflatex"
+  "informe.tex" 1604924060 7565 3d4bfb6e2fedb5444e56ee359d4fd987 ""
   "month-box.png" 1604863828 8665 a5ad8cf7ec0b53160dcc8626279dccae ""
   "month-churn-box.png" 1604857742 20316 df3be69f75efaf0bd4de6e8d3dc9b64b ""
   "month-churn-gen.png" 1604919611 49684 eff7d255f8357f6f81a0f16875501170 ""
@@ -111,7 +111,7 @@
   "total-gen-box.png" 1604918624 16870 c6a496d19d3f80c5dd3abedfd2a62ab3 ""
   "total-hist.png" 1604863931 12874 b8878c368979c43874e4430693573e72 ""
   (generated)
-  "informe.out"
-  "informe.aux"
   "informe.pdf"
+  "informe.aux"
+  "informe.out"
   "informe.log"
